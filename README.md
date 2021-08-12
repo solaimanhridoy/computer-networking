@@ -2,6 +2,14 @@
 
 ------
 
+## Protocol 
+
+A defined set of standards that computers must follow in order to communicate properly.
+
+## Computer Networking
+
+The name we've given to the full scope of how computers communicate with each other.
+
 ## The OSI Model
 
 The Open Systems Interconnection Model (**OSI**) is a conceptual framework used to describe the functions of a networking **system**. The [International Standards Organization (ISO)](https://www.webopedia.com/TERM/I/ISO.html) developed the Open Systems Interconnection (OSI) model. It divides network communication into seven layers. In this model,  layers 1-4 are considered the lower layers, and mostly concern  themselves with moving data around. Layers 5-7, called the the upper  layers, contain application-level data. Each layer takes care of a very specific job, and then passes the data onto the next layer.
